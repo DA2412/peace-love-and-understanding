@@ -1,0 +1,31 @@
+Supplier;no_ordered;year_order;no_delivered;year_delivered;designation_weapon;info_weapon;status_weapon;comments
+Czechia;50;2014;50;2018;BMP-1;IFV;2.5;"Second-hand but modernized to BMP-1AK before delivery; ordered and delivered via Polish company"
+USA;210;2018;210;2018;FGM-148 Javelin;anti-tank missile;2;Probably second-hand
+France;20;2020;0;2022;FPB-98;patrol craft;1;"EUR137 m deal (incl 5 years support; 85% financed with French loans); for border guard; FPB-98 Mk-1 version; incl 5 produced under licence in Ukraine; delivery planned 2022-2024"
+Turkey;2;2020;0;NaN;MilGem;frigate;1;"Incl production under licence in Ukraine; selected 2020 but not yet ordered by end-2021"
+Canada;39;2014;39;2015;Spartan;APC/APV;1;
+Czechia;40;2018;40;2018;2S1 122mm;self-propelled gun;2;Second-hand
+Czechia;16;2019;16;2019;2S1 122mm;self-propelled gun;2;Second-hand
+Czechia;37;2019;37;2020;BMP-1;IFV;2;"Second-hand; BVP-1 version"
+Estonia;50;2021;0;2022;FGM-148 Javelin;anti-tank missile;2;"Second-hand; aid; delivery planned 2022"
+France;12;2018;4;2021;EC725 Super Cougar;transport helicopter;2.5;"Second-hand (but modernized before delivery in Romania); part of EUR555 m deal; H225 version"
+Lithuania;1;2017;1;2021;L-39Z Albatros;trainer/combat ac;2;"Second-hand; aid; L-39ZA version"
+Poland;100;2017;100;2018;Warmate;loitering munition;1;
+Poland;54;2018;54;2019;MT-LB;APC;2;Second-hand
+Poland;24;2019;24;2021;Dozor-B;APC/APV;1;Assembled in Ukraine
+Turkey;12;2018;12;2021;Bayraktar TB-2;armed uav;1;"$69 m deal; Bayraktar TB2 version"
+Turkey;48;2020;0;2022;Bayraktar TB-2;armed uav;1;"Bayraktar TB2 version; possibly incl production under licence in Ukraine; delivery planned from 2022"
+UK;75;2014;75;2015;AT-105 Saxon;APC;2;"Second-hand; GBP3.8 m deal"
+UK;2;2021;0;NaN;Sandown;minehunter;2;"Second-hand; selected but not yet ordered by end-2021"
+USA;50;2015;50;2021;HMMWV Up-Armoured;APV;2;"Second-hand; 'Ukrainian Security Assistance Initiative' aid; M-1114 and M-1151 versions"
+USA;15;2015;15;2021;TPQ-36 Firefinder;arty locating radar;2;"Second-hand; 'Ukraine Security Assistance Initiative' aid"
+USA;2;2018;2;2018;Island;patrol craft;2;"Second-hand; aid; Ukrainian designation Slavyansk"
+USA;150;2019;150;2020;FGM-148 Javelin;anti-tank missile;1;
+USA;3;2019;3;2021;Island;patrol craft;2;"Second-hand; aid"
+USA;180;2021;180;2021;FGM-148 Javelin;anti-tank missile;1;"Aid; delivery also incl 30 launchers"
+USA;300;2021;0;2022;FGM-148 Javelin;anti-tank missile;1;"Part of $200 m aid; delivery planned 2022"
+USA;8;2021;0;2022;Mk-VI;patrol craft;1;"USD103 m deal; 'FMF' aid; delivery planned from 2022"
+Russia;5;2014;5;2014;BTR-82A;IFV;2;"Probably second-hand (but less than 2 years old); BTR-82AM version; aid"
+Russia;10;2014;10;2014;Grom-2;portable SAM;2;"Second-hand; aid"
+Russia;100;2014;100;2014;Kornet;anti-tank missile;2;"Second-hand; aid"
+Russia;10;2014;10;2014;T-72B;tank;2.5;"Second-hand but modernized to T-72B3 before delivery (or less than 2 years before delivery); aid"
